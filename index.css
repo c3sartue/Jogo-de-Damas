@@ -1,0 +1,109 @@
+* {
+    margin: auto;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+
+div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    text-align: center;
+    font-family: "open sans";
+    font-size: 40px;
+    color: white;
+    padding: 6px;
+    width: 36.5%;
+    background-color: red;
+    
+    margin: 1px;
+}
+
+.turn-panel {
+    margin: 10px;
+    width: 50%;
+}
+
+.noPiece {
+    background-color: white;
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+    background-color: red;
+    width: 65px;
+    height: 65px;
+}
+
+.white-turn-text {
+    
+    text-align: center;
+    font-family: "open sans";
+    font-size: 40px;
+    color: red;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    
+
+}
+
+.black-turn-text {
+    text-align: center;
+    color: lightgray;
+    font-family: "open sans";
+    font-size: 40px;
+    padding: 10px;
+    background-color: black;
+    border: 1px solid black;
+    
+    
+}
+
+.black-piece {
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+.white-piece {
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+.mega.white-piece {
+    background-color: gold;
+    
+}
+
+.mega.black-piece {
+    background-color: gold;
+}
+
+p {
+    display: inline-block;
+}
+
+
+
+span {
+    display: inline-block;
+}
+
