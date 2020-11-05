@@ -2,7 +2,7 @@
 
 Jogo de Damas
 
-    O jogo de damas pratica-se entre dois jogadores, num tabuleiro quadrado, de 64 casas alternadamente claras e escuras, dispondo de 12 peças brancas e 12 pretas. O objetivo é       capturar ou imobilizar as peças do adversário.
+* O jogo de damas pratica-se entre dois jogadores, num tabuleiro quadrado, de 64 casas alternadamente claras e escuras, dispondo de 12 peças brancas e 12 pretas. O objetivo é       capturar ou imobilizar as peças do adversário.
 
 Regras do jogo:
 
